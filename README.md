@@ -1,2 +1,2 @@
 # SaySomethingPy
-A project for playing custom tesks in some reason.
+A project for playing custom texts in some reason.
